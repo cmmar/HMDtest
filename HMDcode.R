@@ -1,5 +1,6 @@
 ### HMDcode.R
 ### 11/30/17 cmm
+### This an edit to file using GitHub web interface 12/5/17 and "Commit changes" button
 
 ### set working directory where files are located
 setwd("/homes/cmmar/CSDE502Unix")
